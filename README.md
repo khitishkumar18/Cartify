@@ -106,15 +106,4 @@ A big thank you to all the contributors and developers who made React, Vite, and
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## 🌍 **Join the Cartify Community!**
-
-Feel free to open an issue, contribute, or reach out if you have any feedback or suggestions. Together, we can make Cartify the best shopping cart app! 🚀
-
-- 💌 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 💻 **GitHub**: [@yourusername](https://github.com/yourusername)
-  
----
-
 ## 🥳 **Happy Shopping!** 🛍️🎉
